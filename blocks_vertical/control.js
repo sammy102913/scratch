@@ -526,7 +526,7 @@ Blockly.Blocks['control_all_at_once'] = {
         }
       ],
       "category": Blockly.Categories.control,
-      "extensions": ["colours_control", "shape_statement"]
+      "extensions": ["shape_statement"]
     });
   }
 };
